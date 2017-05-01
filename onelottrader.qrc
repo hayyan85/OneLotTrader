@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="OneLotTrader">
+    <file>Images/timer_binoculars.png</file>
+    <file>Images/downArrow.png</file>
+    <file>Images/down.jpg</file>
+  </qresource>
+</RCC>
